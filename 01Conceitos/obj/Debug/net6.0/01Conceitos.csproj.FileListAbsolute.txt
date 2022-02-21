@@ -1,0 +1,15 @@
+/home/igor/Desktop/doSustenido/01Conceitos/bin/Debug/net6.0/01Conceitos
+/home/igor/Desktop/doSustenido/01Conceitos/bin/Debug/net6.0/01Conceitos.deps.json
+/home/igor/Desktop/doSustenido/01Conceitos/bin/Debug/net6.0/01Conceitos.runtimeconfig.json
+/home/igor/Desktop/doSustenido/01Conceitos/bin/Debug/net6.0/01Conceitos.dll
+/home/igor/Desktop/doSustenido/01Conceitos/bin/Debug/net6.0/01Conceitos.pdb
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.csproj.AssemblyReference.cache
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.AssemblyInfoInputs.cache
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.AssemblyInfo.cs
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.csproj.CoreCompileInputs.cache
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.dll
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/refint/01Conceitos.dll
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.pdb
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/01Conceitos.genruntimeconfig.cache
+/home/igor/Desktop/doSustenido/01Conceitos/obj/Debug/net6.0/ref/01Conceitos.dll
