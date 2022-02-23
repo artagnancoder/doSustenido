@@ -1,0 +1,15 @@
+/home/igor/Desktop/doSustenido/02Métodos/bin/Debug/net6.0/02Métodos
+/home/igor/Desktop/doSustenido/02Métodos/bin/Debug/net6.0/02Métodos.deps.json
+/home/igor/Desktop/doSustenido/02Métodos/bin/Debug/net6.0/02Métodos.runtimeconfig.json
+/home/igor/Desktop/doSustenido/02Métodos/bin/Debug/net6.0/02Métodos.dll
+/home/igor/Desktop/doSustenido/02Métodos/bin/Debug/net6.0/02Métodos.pdb
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.csproj.AssemblyReference.cache
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.AssemblyInfoInputs.cache
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.AssemblyInfo.cs
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.csproj.CoreCompileInputs.cache
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.dll
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/refint/02Métodos.dll
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.pdb
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/02Métodos.genruntimeconfig.cache
+/home/igor/Desktop/doSustenido/02Métodos/obj/Debug/net6.0/ref/02Métodos.dll
