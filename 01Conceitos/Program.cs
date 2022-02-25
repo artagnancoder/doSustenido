@@ -18,3 +18,4 @@ namespace _01Conceitos //Namespace é o local/diretório onde você tem o projet
 }
 
 //Todo projeto em C# precisa ter um arquivo com o static void Main().
+//Program.cs é a nossa classe principal, onde vamso executar todos os nossos projetos.
